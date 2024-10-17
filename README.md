@@ -57,7 +57,7 @@
    ```
 5. **Clone the Repository**
    ```bash
-   git clone https://github.com/TeamInflex/InflexMusicBot && cd InflexMusicBot
+   git clone [https://github.com/TeamInflex/InflexMusicBot && cd InflexMusicBot](https://github.com/vino160898/Trendzmusic-)
    ```
 6. **Install Requirements**
    ```bash
